@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**jsbxyyx/jsbxyyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on IoT
+- 🌱 I’m currently learning AI, Backend development, Yijing, TCM
+- 👯 I’m looking to collaborate on anything
+- 🤔 I’m looking for help with Technical cooperation
+- 💬 Ask me about anything you want
+- 📫 How to reach me: jsbxyyx#apache.org
+- ⚡ Fun fact: reading, coding
 
-Here are some ideas to get you started:
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=jsbxyyx&show_icons=true&theme=radical)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="#" style="cursor: default;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsbxyyx&hide=html,thrift&layout=compact" />
+</a>
+<a href="#" style="cursor: default;">
+  <img  src="https://github-profile-trophy.vercel.app/?username=jsbxyyx&theme=flat&row=1&column=7&no-frame=true&no-bg=true" />
+</div>
