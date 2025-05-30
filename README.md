@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on IoT
+- 🔭 I’m currently working on AIoT
 - 🌱 I’m currently learning AI, Backend development, Yijing, TCM
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with Technical cooperation
