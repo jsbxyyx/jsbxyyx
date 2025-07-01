@@ -9,6 +9,10 @@
 - ⚡ Fun fact: reading, coding
 
 <a href="javascript:void(0);" style="cursor: default;">
+  <img src="https://komarev.com/ghpvc/?username=jsbxyyx&color=brightgreen" alt="GitHub profile views">
+</a>
+
+<a href="javascript:void(0);" style="cursor: default;">
   <img src="https://github-readme-stats.vercel.app/api?username=jsbxyyx&show_icons=true&theme=radical" alt="GitHub stats">
 </a>
 
