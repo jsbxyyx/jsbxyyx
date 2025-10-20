@@ -19,6 +19,3 @@
 <a href="javascript:void(0);" style="cursor: default;">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsbxyyx&hide=html,thrift&layout=compact" alt="GitHub top langs" />
 </a>
-<a href="javascript:void(0);" style="cursor: default;">
-  <img  src="https://github-profile-trophy.vercel.app/?username=jsbxyyx&theme=flat&row=1&column=7&no-frame=true&no-bg=true" />
-</div>
