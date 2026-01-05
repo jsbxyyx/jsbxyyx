@@ -9,7 +9,7 @@
 - ⚡ Fun fact: reading, coding
 
 <a href="javascript:void(0);" style="cursor: default;">
-  <img src="https://komarev.com/ghpvc/?username=jsbxyyx&color=brightgreen" alt="GitHub profile views">
+  <img src="https://count.getloli.com/@jsbxyyx" alt="@jsbxyyx">
 </a>
 
 <a href="javascript:void(0);" style="cursor: default;">
